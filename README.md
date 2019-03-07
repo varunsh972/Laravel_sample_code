@@ -1,0 +1,1 @@
+This is a Laravel sample code. The functionality in this code is to create dynamic pages from admin and same are visible on the frontend. Admin can create any no. of pages under different categories and can set them in different positions like header or footer. Also SEO settings for each pages are captured while creating the pages.
